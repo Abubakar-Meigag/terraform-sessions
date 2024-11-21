@@ -4,5 +4,5 @@
 crash.log
 terraform.tfvars
 .terraform
-**/.terraform/
-!course-folder/backend/challenge1/.terraform/
+/.terraform/
+.terraform/
