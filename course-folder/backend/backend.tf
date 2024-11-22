@@ -10,4 +10,4 @@ terraform {
 }
 
 
-# here is hot to save your tfstate file into s3 bucket
+# here is how to save your tfstate file into s3 bucket
